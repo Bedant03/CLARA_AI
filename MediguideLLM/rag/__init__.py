@@ -1,0 +1,1 @@
+"""Medical document ingestion and retrieval."""

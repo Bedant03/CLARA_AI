@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-core
+langchain-ollama
+langgraph
+langgraph-checkpoint
+chromadb
+langchain-chroma
+langchain-community
+langchain-text-splitters
+pypdf
+requests
+python-dotenv
+langchain_groq
+sentence-transformers
+langchain-huggingface
