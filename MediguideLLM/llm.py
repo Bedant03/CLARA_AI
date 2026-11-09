@@ -20,4 +20,5 @@ llm = ChatGroq(
     model=GROQ_MODEL,
     temperature=0,
     api_key=GROQ_API_KEY,
+    max_tokens=1024
 )

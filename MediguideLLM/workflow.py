@@ -22,7 +22,7 @@ TOOLS = [
 ]
 llm_with_tools = llm.bind_tools(TOOLS)
 SYSTEM_PROMPT = """
-You are MediGuide AI, a medical information assistant
+You are CLARA AI, a medical information assistant
 for an educational prototype.
 
 GENERAL BEHAVIOUR
